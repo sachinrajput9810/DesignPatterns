@@ -45,6 +45,3 @@ The goal of this repository is to:
 
 ---
 
-## Folder Structure
-
-The repository will follow this structure:  
